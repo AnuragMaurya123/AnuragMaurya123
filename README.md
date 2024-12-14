@@ -9,9 +9,9 @@
 
 - Food Delivery website [Foodi](https://foods-databases.web.app/)
 
-- Notion Clone | Collaborative Productivity Platform website [Foodi](https://notion-clone-qqliafh9g-anurag-mauryas-projects-dce7cd63.vercel.app/)
+- Notion Clone | Collaborative Productivity Platform website [Notion Clone](https://notion-clone-qqliafh9g-anurag-mauryas-projects-dce7cd63.vercel.app/)
 
-- Ticket Authority website [Foodi](https://concert-booking-webapp-jetupgdk5.vercel.app/)
+- Ticket Authority website [Ticket](https://concert-booking-webapp-jetupgdk5.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
