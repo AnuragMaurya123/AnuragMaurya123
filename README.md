@@ -9,6 +9,10 @@
 
 - Food Delivery website [Foodi](https://foods-databases.web.app/)
 
+- Notion Clone | Collaborative Productivity Platform website [Foodi](https://notion-clone-qqliafh9g-anurag-mauryas-projects-dce7cd63.vercel.app/)
+
+- Ticket Authority website [Foodi](https://concert-booking-webapp-jetupgdk5.vercel.app/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anurag-maurya-120a1524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anurag-maurya-120a1524" height="30" width="40" /></a>
