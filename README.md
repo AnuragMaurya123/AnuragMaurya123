@@ -13,7 +13,7 @@ I'm a Junior Developer at **TrackPrep (MyClassX Technologies Pvt Ltd)**, a NEET 
 - 💼 Junior Developer at TrackPrep
 - 🛠️ Full-stack: React, Next.js, TypeScript, Node.js, Express, MongoDB
 - 🌱 Learning more about AI features and scalable web apps
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/anurag-maurya-120a1524)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/anurag-maurya-120a15247)
 
 ## 📚 What We're Building at TrackPrep
 
@@ -60,5 +60,5 @@ I'm a Junior Developer at **TrackPrep (MyClassX Technologies Pvt Ltd)**, a NEET 
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-maurya-120a1524)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-maurya-120a15247)
 [![TrackPrep](https://img.shields.io/badge/TrackPrep-0e75b6?style=for-the-badge&logoColor=white)](https://trackprep.in)
