@@ -1,97 +1,64 @@
-<h1 align="center">Hi 👋, I'm Anurag Maurya</h1>
-<h3 align="center">Full-Stack JavaScript Application with MongoDB, Express, React, and Node.js Building a Modern Web Application with the MERN Stack MERN Stack: A Complete Guide to Full-Stack Web Development End-to-End Web Application using MongoDB, Express, React, and Node.js Full-Stack Development with MongoDB, Express, React, and Node (MERN) Building Scalable Web Applications with the MERN Stack</h3>
+# Hi 👋, I'm Anurag Maurya
 
-- Ecommerce store For User [e-commerce](https://ecommerce-ten-pi-45.vercel.app/)
+### Junior Developer at [TrackPrep](https://trackprep.in) · Building AI-powered NEET prep for students across India
 
-- Ecommerce store For Admin panel [e-commerce](https://ecommerce-cxpy.vercel.app/)
-
-- Doctor Appointment Website [Medicare](https://doctor-appointment-website-wxrj.vercel.app/)
-
-- Food Delivery website [Foodi](https://foods-databases.web.app/)
-
-- Notion Clone | Collaborative Productivity Platform website [Notion Clone](https://notion-clone-qqliafh9g-anurag-mauryas-projects-dce7cd63.vercel.app/)
-
-- Ticket Authority website [Ticket](https://concert-booking-webapp-jetupgdk5.vercel.app/)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anurag-maurya-120a1524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anurag-maurya-120a1524" height="30" width="40" /></a>
-<a href="https://fb.com/anurag maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anurag maurya" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=AnuragMaurya123&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <!-- C -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <!-- C++ -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <!-- CSS3 -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <!-- Express -->
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <!-- HTML5 -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <!-- Java -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <!-- Node.js -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <!-- Redux -->
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a> 
-  <!-- Sass -->
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a> 
-  <!-- Tailwind CSS -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a>
-  <!-- Next.js -->
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> 
-  </a>
-  <!-- Convex -->
-  <a href="https://convex.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/convex-dev/convex-dev-icon.svg" alt="convex" width="40" height="40"/> 
-  </a>
-</p>
+## 🚀 About Me
 
+I'm a Junior Developer at **TrackPrep (MyClassX Technologies Pvt Ltd)**, a NEET practice platform where students take full-length CBT mock tests, practise PYQs, and get AI-driven help to prepare smarter. I work across the stack to build and ship features that students use every day.
+
+- 💼 Junior Developer at TrackPrep
+- 🛠️ Full-stack: React, Next.js, TypeScript, Node.js, Express, MongoDB
+- 🌱 Learning more about AI features and scalable web apps
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/anurag-maurya-120a1524)
+
+## 📚 What We're Building at TrackPrep
+
+> *padho chahe kahi se, sawaal aayenge TrackPrep se*
+
+- **CBT test series:** full-length NEET-pattern mock tests in a real computer-based test interface
+- **Practice tools:** PYQs mode, custom tests, Question of the Day with streaks
+- **Performance analytics:** subject-wise accuracy, expected marks, expected rank and leaderboards
+- **Revision:** Mistake Book, flash cards, NCERT books and NCERT Concise
+- **AI features:** Ask Jojo (AI study assistant), AI Scheduler and more
+
+## 💻 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+## 📂 Featured Projects
+
+| Project | Description | Link |
+|---|---|---|
+| **TrackPrep** | NEET practice platform with CBT mock tests, PYQs, performance analytics and AI study tools. | [trackprep.in](https://trackprep.in) |
+| **E-commerce Store** | Online store for customers. | [Live](https://ecommerce-ten-pi-45.vercel.app/) |
+| **E-commerce Admin Panel** | Admin dashboard to manage the store. | [Live](https://ecommerce-cxpy.vercel.app/) |
+| **Medicare** | Doctor appointment booking website. | [Live](https://doctor-appointment-website-wxrj.vercel.app/) |
+| **Foodi** | Food delivery website. | [Live](https://foods-databases.web.app/) |
+| **Notion Clone** | Collaborative productivity platform. | [Live](https://notion-clone-qqliafh9g-anurag-mauryas-projects-dce7cd63.vercel.app/) |
+| **Ticket Authority** | Concert ticket booking web app. | [Live](https://concert-booking-webapp-jetupgdk5.vercel.app/) |
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-maurya-120a1524)
+[![TrackPrep](https://img.shields.io/badge/TrackPrep-0e75b6?style=for-the-badge&logoColor=white)](https://trackprep.in)
